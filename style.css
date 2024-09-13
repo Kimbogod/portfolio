@@ -1,0 +1,73 @@
+html{
+    background-color: rgb(243, 241, 241);
+}
+
+h2{
+    font-size: 50px;
+    color: black;
+}
+
+ol , ul {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+p{
+    color: rgb(10, 95, 243);
+    font-size: 50px;
+    font-weight:bolder;
+    text-align: center;
+}
+
+#titulo{
+    color: rgb(10, 95, 243);
+    font-size: 60px;
+    font-weight:bolder;
+    text-align: center;
+    font-family: "Bungee Tint", sans-serif; 
+}
+
+.acerca-imagen{
+    display: flex;
+    justify-content:center;
+    
+}
+
+
+header
+{
+    color: azure;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+    
+}
+
+header nav ul {
+    display: flex;
+    gap: 3em;
+    color: black;
+    font-family: "Roboto Slab", serif;
+}
+
+#seccion-principal .parrafo2 
+{
+    color: rgb(228, 173, 9);
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+
+li{
+    border: 5px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 10px;
+    color: black;
+}
+
